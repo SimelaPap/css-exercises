@@ -21,7 +21,6 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
-  justify-content: space-around;
   gap: 20px;
   padding: 20px;
 }
@@ -77,4 +76,9 @@ button.cancel {
 .header {
   font-weight: bold;
   font-size: larger;
+}
+
+.text {
+
+  padding: 10px 0px;
 }
